@@ -1,0 +1,15 @@
+/wp-content/themes/twenty*
+/wp-content/upgrade
+/wp-content/uploads
+/wp-content/cache
+/sitemap.*
+/wp-config.php
+/.htaccess
+*.sql
+/.idea
+
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
+git init
